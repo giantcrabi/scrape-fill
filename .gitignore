@@ -1,0 +1,9 @@
+node_modules/
+
+logs/
+
+.idea/
+
+.env
+
+*.chk
